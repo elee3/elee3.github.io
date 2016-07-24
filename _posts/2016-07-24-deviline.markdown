@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hi Deviline!"
+date:   2016-07-24 15:50:00 +0800
+categories: jekyll update
+---
+Hi Deviline, remember not to be so blur next time. Check [flight time][scoot]
+ 
+[scoot]: http://www.flyscoot.com/en/
